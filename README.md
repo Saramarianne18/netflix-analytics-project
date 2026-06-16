@@ -1,3 +1,4 @@
+<img width="590" height="390" alt="movies_vs_tvshows" src="https://github.com/user-attachments/assets/2ca26a71-f898-422c-8c6b-88f694347e85" />
 # Netflix Content Analysis
 
 ## Project Overview
@@ -56,7 +57,7 @@ The following data cleaning activities were performed:
 
 ### 1. Content Type Distribution
 
-![Movies vs TV Shows](visuals/movies_vs_tvshows.png)
+<img width="590" height="390" alt="movies_vs_tvshows" src="https://github.com/user-attachments/assets/374cf9fc-8dd0-48d5-82ca-d74b54cc88c1" />
 
 **Insight:** Movies account for approximately 70% of Netflix's catalogue, making them the dominant content type.
 
