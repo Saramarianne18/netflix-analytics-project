@@ -1,4 +1,3 @@
-<img width="590" height="390" alt="movies_vs_tvshows" src="https://github.com/user-attachments/assets/2ca26a71-f898-422c-8c6b-88f694347e85" />
 # Netflix Content Analysis
 
 ## Project Overview
@@ -63,25 +62,22 @@ The following data cleaning activities were performed:
 
 ### 2. Geographic Distribution
 
-![Top Countries](visuals/geographic_distribution.png)
+<img width="987" height="590" alt="geographic_distribution" src="https://github.com/user-attachments/assets/d5eab2df-5b92-4171-846f-8b3924901c0f" />
 
 **Insight:** The United States contributes the highest number of titles, followed by India and the United Kingdom.
 
 ### 3. Audience Rating Analysis
-
-![Audience Rating](visuals/ratings.png)
+<img width="989" height="490" alt="ratings" src="https://github.com/user-attachments/assets/16589f82-bfc3-4d61-95b7-6ca65ca3eed5" />
 
 **Insight:** TV-MA and TV-14 are the most common ratings, indicating a strong focus on teenage and adult audiences.
 
 ### 4. Genre Analysis
-
-![Top Genres](visuals/top_genres.png)
+<img width="983" height="489" alt="top_genres" src="https://github.com/user-attachments/assets/f7e90463-9f7d-4b28-9a92-a062a7d1fb5d" />
 
 **Insight:** International Movies, Dramas, and Comedies are among the most represented content categories.
 
 ### 5. Content Added to Netflix by Year
-
-![Content added over the year](visuals/overtime_content.png)
+<img width="989" height="490" alt="overtime_content" src="https://github.com/user-attachments/assets/28af5f91-a100-4a73-a26b-f4075d3f2925" />
 
 **Insight:** Netflix experienced rapid catalogue expansion between 2016 and 2019, with content additions peaking in 2019.
 
