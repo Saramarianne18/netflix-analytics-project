@@ -148,6 +148,7 @@ All SQL results were consistent with the Python findings, confirming the reliabi
 ### Environment
 
 * Jupyter Notebook
+* Visual Studio Code
 
 ---
 
